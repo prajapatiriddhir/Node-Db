@@ -1,0 +1,10 @@
+POST http://localhost:5000/app/signup
+Content-Type: application/json
+
+{
+    "FullName":"Prajapati Riddhi Rameshbhai",
+    "UserName":"Riddhi",
+    "Email":"riddhi12@gmail.com",
+    "Password":"123456"
+
+}
